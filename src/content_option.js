@@ -12,7 +12,7 @@ const introdata = {
         third: "I develop Mobile Apps",
     },
     description: "Hello! I'm Mayank Kumar, a passionate and dedicated React Developer. I love diving into the world of web development and creating amazing applications. With my expertise in React.js, React Native, and other web technologies, I'm always ready to tackle new challenges and bring ideas to life.When it comes to problem-solving, I'm like a detective on a mission. I enjoy unraveling complex challenges and finding elegant solutions. I pay attention to detail and strive for perfection in every line of code.",
-    your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
+    your_img_url: "https://media.licdn.com/dms/image/C4D03AQGtUTY5v2jAbw/profile-displayphoto-shrink_800_800/0/1652384468402?e=1691625600&v=beta&t=wfVZiYRYOYsj6Od1OKBnRu-V9rg_s37MThC8Q4rDqjQ",
 };
 
 const dataabout = {
